@@ -14,14 +14,22 @@ na rotina.
 
 cronograma
 17/03 - Kick off
+<br>
 25/03 á 14/04 - 1º sprint
+<br>
 25/04 á 15/05 - 2º sprint
+<br>
 16/05 á 27/05 - 3º sprint
+<br>
 15/06 - Feira de soluções
 
 1º sprint 
+<br>
 Apresentação do Git
+<br>
 Planejamento
+<br>
 Comando de voz 
+<br>
 Contas
 
