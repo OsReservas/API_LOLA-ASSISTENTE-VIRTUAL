@@ -13,7 +13,7 @@ artes;
 na rotina.
 
 cronograma
-17/03 - Kick off
+<i class="fa-solid fa-check"></i> 17/03 - Kick off
 <br>
 25/03 á 14/04 - 1º sprint
 <br>
