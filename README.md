@@ -31,6 +31,7 @@ Ajudar no desenvolvimento das crianças nas seguintes matérias:
 
 - Apresentação do Git
 - Planejamento
+- Aprender python
 - Comando de voz 
 - Contas
 
