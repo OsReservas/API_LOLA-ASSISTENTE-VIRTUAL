@@ -33,8 +33,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 - [x]  **Utilização de API de desenvolvimento** - Não utilizar API já desenvolvida
 - [x]  **Caracteristicas de voz** - Sintetização via software
     
- <h2>
-    Cronograma
+ ## 🗓️ Cronograma
 </h2>    
 
 :heavy_check_mark: 17/03 - Kick off
