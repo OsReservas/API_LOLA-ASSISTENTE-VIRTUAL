@@ -44,8 +44,8 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 
 ## 📊 Backlog do Projeto (Produto)
 
-## ✔️definição
-## ✔️
+ ✔️definição
+ ✔️
 
 
 
