@@ -44,8 +44,10 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 
 ## 📊 Backlog do Projeto (Produto)
 
- ✔️definição
- ✔️
+ - Definição da assitente Pessoal virtual
+ - Comando de voz sintetizada pelo software
+ - 
+ - 
 
 
 
