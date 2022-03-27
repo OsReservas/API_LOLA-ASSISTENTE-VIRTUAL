@@ -61,6 +61,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
  
  ## 📑 Backlog das Sprints (entregas)
  
+ 
  ## 📋 **Sprint 1**
  
  - Apresentar o logotipo do grupo e projeto
@@ -72,6 +73,21 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 
 
 ## 📋 **Sprint 2**
+
+- Demonstrar o gráfico quantitativo Burn Down
+- Apresentar aproximadamente mais cinco funcionalidades da assistente
+- Apresentar wireframe da interface visual
+
+
+## 📋 **Sprint 3**
+
+- Executar fechamento do gráfico quantitativo Burn Down
+- Apresentar funcionalidades de fechamento do sistema
+- Finalizar interface visual
+
+
+
+
 
 
 
