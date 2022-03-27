@@ -3,7 +3,7 @@
     
 ______________________________________________________________________________________________________________
 ## 🎓 **Integrantes do Grupo de Desenvolvimento ZeldaBD:**
-- André Gabriel (SM)
+- André Gabriel (SM) https://www.linkedin.com/in/andr%C3%A9-gabriel-ferreira-89441382/
 - Eguimar Batista da Costa (Dev) www.linkedin.com/in/eguimar-costa-03a175214/
 - Gabriel (Dev)
 - Guilherme (Dev) 
