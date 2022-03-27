@@ -3,7 +3,14 @@
     
 ______________________________________________________________________________________________________________
 ## **Integrantes do Grupo de Desenvolvimento ZeldaBD:**
-
+- André Gabriel (SM)
+- Eguimar Batista da Costa (Dev) www.linkedin.com/in/eguimar-costa-03a175214/
+- Gabriel (Dev)
+- Guilherme (Dev) 
+- Maria Alice de Oliveira (Dev) www.linkedin.com/in/maria-alice-oliveira-336273215
+- Marcelo Bueno (Dev) www.linkedin.com/in/marcelo-silva-07081999
+- Mu (Dev)
+- Thiago Chaves (Dev)  
 
 Ajudar no desenvolvimento das crianças nas seguintes matérias: 
 - Matemática
