@@ -42,18 +42,10 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 - [ ] 16/05 á 27/05 - 3º sprint
 - [ ] 15/06 - Feira de soluções
 
-## 📊 Backlog do Projeto (Produto) 
+## 📊 Backlog do Projeto (Produto)
 
--✔️Definição da assistente pessoal virtual
--✔️Comando de voz sintetizada
--✔️Distinção de funções e ações
--✔️Plataforma definida como padrão desktop
+## ✔️definição
+## ✔️
 
-- Apresentação do Git
-- Planejamento
-- Aprender python
-- Comando de voz 
-- Contas
 
-<h3>
-</h3>
+
