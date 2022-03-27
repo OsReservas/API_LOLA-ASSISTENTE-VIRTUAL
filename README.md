@@ -46,7 +46,18 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 
  - Definição da assitente Pessoal virtual
  - Comando de voz sintetizada pelo software
- - 
+ - Distinção de funções e ações
+ - Plataforma definida como padrão desktop
+ - Itens de funcionalidade da assistente virtual escolar
+ - Ativar a função lembrete
+ - executar as quatro operações matemáticas fundamentais
+ - Modo contador de histórias e ou musica
+ - executar ligação para orgão emergencial
+ - soletrar palavras
+ - executar função dicionário
+ - executar jogo
+ - descrição de passos para escovar os dentes
+ - realizar pesquisa com filtro de sensura  
  - 
 
 
