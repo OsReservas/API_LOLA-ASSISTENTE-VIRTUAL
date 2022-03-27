@@ -10,7 +10,10 @@ ________________________________________________________________________________
 - Maria Alice de Oliveira (Dev) www.linkedin.com/in/maria-alice-oliveira-336273215
 - Marcelo Bueno (Dev) www.linkedin.com/in/marcelo-silva-07081999
 - Mu (Dev)
-- Thiago Chaves (Dev)  
+- Thiago Chaves (Dev) 
+
+______________________________________________________________________________________________________________
+## ✅ Descrição e Objetivos do Projeto
 
 Ajudar no desenvolvimento das crianças nas seguintes matérias: 
 - Matemática
