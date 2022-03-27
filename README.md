@@ -86,6 +86,9 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 - Finalizar interface visual
 
 
+## 💻 **Tecnologias utilizadas**
+
+
 
 
 
