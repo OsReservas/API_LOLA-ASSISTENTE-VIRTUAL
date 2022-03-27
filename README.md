@@ -42,9 +42,9 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 - [ ] 16/05 á 27/05 - 3º sprint
 - [ ] 15/06 - Feira de soluções
 
-<h3>
-    1º sprint
-</h3>
+## 📊 Backlog do Projeto (Produto) 
+
+
 
 - Apresentação do Git
 - Planejamento
