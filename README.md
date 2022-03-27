@@ -58,7 +58,22 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
  - executar jogo
  - descrição de passos para escovar os dentes
  - realizar pesquisa com filtro de sensura  
- - 
+ 
+ ## 📑 Backlog das Sprints (entregas)
+ 
+ ## 📋 **Sprint 1**
+ 
+ - Apresentar o logotipo do grupo e projeto
+ - Apresentar o repositório do grupo (documentação)
+ - Demonstrar o gráfico quantitativo Burn down
+ - Definir Planejamento do projeto Backlog
+ - Apresentar duas funcionalidades da assistente
+ - Ação de resposta ao comando de voz
+
+
+## 📋 **Sprint 2**
+
+
 
 
 
