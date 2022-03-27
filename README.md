@@ -44,7 +44,10 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 
 ## 📊 Backlog do Projeto (Produto) 
 
-
+✔️Definição da assistente pessoal virtual
+✔️Comando de voz sintetizada
+✔️Distinção de funções e ações
+✔️Plataforma definida como padrão desktop
 
 - Apresentação do Git
 - Planejamento
