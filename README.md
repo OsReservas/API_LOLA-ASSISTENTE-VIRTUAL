@@ -29,7 +29,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 - [x]  **Tradução de comando de voz enviado** - Pesquisa de bibliotecas que permitam a interpretação e link
 - [x]  **Distinguir ações e funções** - Verificar ações e filtros 
 
-- ** Não funcionais**
+- **Não funcionais**
 - [x]  **Utilização de API de desenvolvimento** - Não utilizar API já desenvolvida
 - [x]  **Caracteristicas de voz** - Sintetização via software
     
