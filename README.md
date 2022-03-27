@@ -1,4 +1,4 @@
-# PROJETO INTEGRADOR - ZeldaBD
+# PROJETO INTEGRADOR - DORA Assistente Virtual
 <FATEC Profº Jessen Vidal, São José dos Campos, 1º semestre de 2022, Curso: Tecnologia em Banco de Dados
     
     
