@@ -2,7 +2,7 @@
 <FATEC Profº Jessen Vidal, São José dos Campos, 1º semestre de 2022, Curso: Tecnologia em Banco de Dados
     
 ______________________________________________________________________________________________________________
-## **Integrantes do Grupo de Desenvolvimento ZeldaBD:**
+## 🎓 **Integrantes do Grupo de Desenvolvimento ZeldaBD:**
 - André Gabriel (SM)
 - Eguimar Batista da Costa (Dev) www.linkedin.com/in/eguimar-costa-03a175214/
 - Gabriel (Dev)
