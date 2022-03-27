@@ -24,7 +24,8 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 - Artes
 - Rotina 
 
-## ✅ **Requisitos funcionais**
+## ✅ **Requisitos do Projeto**
+- **Funcionais**
 <h2>
     Cronograma
 </h2>    
