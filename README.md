@@ -1,6 +1,6 @@
 <h1>
-    # PROJETO INTEGRADOR - ZeldaBD
-    Dora assistente virtual
+    PROJETO INTEGRADOR - ZeldaBD
+    FATEC Profº Jessen Vidal, São José dos Campos, 1º semestre de 2022, Curso: Tecnologia em Bancos de Dados
 </h1>
 Dora, é uma assistente virtual voltada para crianças de 5 a 8 anos, com o intuito educacional.
 Ela é ativada por comando de voz, sendo a palavra chave "Oi Dora" e devera retornar o comando em voz.
