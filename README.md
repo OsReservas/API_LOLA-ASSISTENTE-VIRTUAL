@@ -1,5 +1,5 @@
 # PROJETO INTEGRADOR - DORA Assistente Virtual
-<FATEC Profº Jessen Vidal, São José dos Campos, 1º semestre de 2022, Curso: Tecnologia em Banco de Dados
+FATEC Profº Jessen Vidal, São José dos Campos, 1º semestre de 2022, Curso: Tecnologia em Banco de Dados
     
 ______________________________________________________________________________________________________________
 ## 🎓 **Integrantes do Grupo de Desenvolvimento ZeldaBD:**
@@ -9,7 +9,7 @@ ________________________________________________________________________________
 - Guilherme (Dev) 
 - Maria Alice de Oliveira (Dev) www.linkedin.com/in/maria-alice-oliveira-336273215
 - Marcelo Bueno (Dev) www.linkedin.com/in/marcelo-silva-07081999
-- Mu (Dev)
+- Murilo (Dev)
 - Thiago Chaves (Dev) 
 
 ______________________________________________________________________________________________________________
@@ -81,18 +81,14 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 
 ## 📋 **Sprint 3**
 
-- Executar fechamento do gráfico quantitativo Burn Down
+- Executar fechamento do gráfico quantitativo Burndown
 - Apresentar funcionalidades de fechamento do sistema
 - Finalizar interface visual
 
 
 ## 💻 **Tecnologias utilizadas**
-
-
-
-
-
-
+* **Reuniões e Apresentações:** Meet Google, WhatsApp;
+* **Ferramentas:** Github, Visual Studio Code, PyCharm.
 
 
 
