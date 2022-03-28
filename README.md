@@ -1,18 +1,16 @@
 <p align="center">
       <img src="/IMAGENS/dora logo.PNG">
-      <h3 align="center"> DORA - ASSISTENTE VIRTUAL </h3>
+      <h3 align="center"> DORA - ASSISTENTE VIRTUAL </h1>
 <p align="center">
 <hr>
 
 ## 💼 **O Projeto**
-<hr>
 Dora é a assistente virtual voltada para crianças na faixa etária de 5 a 8 anos.
 Ativada por comando de voz, utilizando a palavra chave de" Oi Dora" é possivel que ela faça:
 - Cálculos matematicos; 
 - Contar histórias;
 
 <hr>
-
 
 ## **Objetivo**
 
@@ -52,7 +50,6 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
  - descrição de passos para escovar os dentes
  - realizar pesquisa com filtro de sensura  
  <hr>
- <br>
 
  ## 📑 **Proposta do projeto**
 
@@ -79,15 +76,12 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 - Apresentar funcionalidades de fechamento do sistema
 - Finalizar interface visual
 <hr>
-<br>
 
 ## 💻 **Tecnologias utilizadas**
 * **Apresetação** Github;
 * **Reuniões** Meet Google, WhatsApp;
 * **Ferramentas:** Visual Studio Code, PyCharm.
 <hr>
-
-<br>
 
 ## 🎓 **Equipe:**
 |NOME|FUNÇÃO|LINKEDIN|AVATAR|
