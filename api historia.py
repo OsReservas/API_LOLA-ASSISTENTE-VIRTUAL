@@ -43,7 +43,7 @@ def ouvir_microfone():
         print("Você disse: " + frase)
 
     # Se nao reconheceu o padrao de fala, exibe a mensagem
-    except sr.UnkownValueError:
+    except sr.UnknownValueError:
         print("Não entendi")
 
     return frase
@@ -77,7 +77,7 @@ def ouvir_microfone():
         print("Você disse: " + frase)
 
     # Se nao reconheceu o padrao de fala, exibe a mensagem
-    except sr.UnkownValueError:
+    except sr.UnknownValueError:
         print("Não entendi")
 
     return frase
