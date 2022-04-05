@@ -2,6 +2,7 @@
       <img src="/IMAGENS/dora logo.PNG">
       <h3 align="center"> LOLA - ASSISTENTE VIRTUAL </h1>
 <p align="center">
+
 <hr>
 
 ## 💼 **O Projeto**
@@ -75,13 +76,19 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 - Executar fechamento do gráfico quantitativo Burndown
 - Apresentar funcionalidades de fechamento do sistema
 - Finalizar interface visual
+
 <hr>
 
 ## 🖥️ **Tecnologias utilizadas**
-* ** Linguagem**  <a href="https://www.python.org/">Python</a>
-* **Versionamento** Github;
-* **Reuniões** Meet Google, WhatsApp;
-* **Ferramentas:** Visual Studio Code, PyCharm.
+* Linguagem Utilizada <br> <a href="https://www.python.org/"><img src="IMAGENS/icons8-python-48.png"  width="64" height="64"></a>
+
+
+* Versionamento <br> <img src="IMAGENS/icons8-github-100.png" width="64" height="64" >
+
+* Reuniões semanais  <br> <img src="IMAGENS/icons8-google-meet-48.png"> <img src="IMAGENS/icons8-whatsapp-48.png"  width="60" height="60">
+
+* Ferramentas de Desenvolvimento <br> <img src="IMAGENS/icons8-visual-studio-48.png" width="64" height="64"> <img src="IMAGENS/icons8-pycharm-48.png" width="64" height="64">
+
 <hr>
 
 
