@@ -18,7 +18,7 @@ Ativada por comando de voz, utilizando a palavra chave de" Oi Lola" sendo possiv
 
 <hr>
 
-## **Objetivo**
+## 🎯 **Objetivo**
 
 A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo das crianças.
 
@@ -29,7 +29,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 </h2>    
 
 :heavy_check_mark: 17/03 - Kick off
-- [ ] 25/03 á 14/04 - 1º sprint
+- > [] 25/03 á 14/04 - 1º sprint
 - [ ] 25/04 á 15/05 - 2º sprint
 - [ ] 16/05 á 27/05 - 3º sprint
 - [ ] 15/06 - Feira de soluções
@@ -77,7 +77,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 - Finalizar interface visual
 <hr>
 
-## 💻 **Tecnologias utilizadas**
+## 🖥️ **Tecnologias utilizadas**
 * ** Linguagem**  <a href="https://www.python.org/">Python</a>
 * **Versionamento** Github;
 * **Reuniões** Meet Google, WhatsApp;
@@ -85,18 +85,62 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 <hr>
 
 
-## 🎓 **Equipe:**
+## 🧑‍💻 👩‍💻 **Equipe:**
 
-<h2> Agradecemos às seguintes pessoas que contribuíram para este projeto: </h2>
+<h2> Agradecimento às seguintes pessoas que contribuíram para este projeto: </h2>
 
-|NOME|FUNÇÃO|LINKEDIN|AVATAR|
-| ---------- |---------- |---------- |----------|
-|**André Gabriel**| Scrum Master e desenvolvedor| <a href="https://www.linkedin.com/in/andr%C3%A9-gabriel-ferreira-89441382/" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/andre.jpeg" width="120" height="135" />|
-|**Eguimar Costa**| GitHub| <a href="https://www.linkedin.com/in/eguimar-costa-03a175214/" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/eguimar.jpeg" width="120" height="135" />|
-|**Guilherme Alves**| Desenvolvedor|<a href="https://www.linkedin.com/mwlite/in/guilherme-alves-163783156" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a> | <img src="IMAGENS/imagem guilherme.jpeg" width="120" height="135"  />|
-|**Maria Alice**| GitHub e desenvolvedora|  <a href="https://www.linkedin.com/in/maria-alice-oliveira-336273215" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/alice.jpeg" width="120" height="135" />|
-|**Marcelo Bueno**| Desenvolvedor| <a href="https://www.linkedin.com/in/marcelo-silva-07081999" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/marcelo.jpeg" width="120" height="135"/>|
-|**Murilo Junior**| Desenvolvedor| <a href="https://www.linkedin.com/in/murilo-jos%C3%A9-de-brito-junior-32403b157" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/murilo.jpeg" width="120" height="135"/>|
-|**Thiago Chaves**| Desenvolvedor| <a href="https://www.linkedin.com/in/thiago-lopes-chaves-5ba22b209" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a> |<img src="/IMAGENS/thiago.jpeg" width="120" height="135" />|
+<table align= "center">
+      <tr>
+            <td>NOME</td>
+            <td>FUNÇÃO</td>
+            <td>LINKEDIN</td>
+            <td>AVATAR</td>
+      </tr>
+      <tr>
+            <td>André Gabriel</td>
+            <td>Scrum Master e desenvolvedor</td>
+            <td><a href="https://www.linkedin.com/in/andr%C3%A9-gabriel-ferreira-89441382/" target="_blank"><img src="IMAGENS/iconlinkedin.png"                           target="_blank"></a></td>
+            <td><img src="/IMAGENS/andre.jpeg" width="120" height="135" /></td>
+      </tr>
+       <tr>
+            <td>Eguimar Costa</td>
+            <td>GitHub</td>
+            <td><a href="https://www.linkedin.com/in/eguimar-costa-03a175214/" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|</td>
+            <td><img src="/IMAGENS/eguimar.jpeg" width="120" height="135" /></td>
+      </tr>
+      <tr>
+            <td>Guilherme Alves</td>
+            <td>Desenvolvedor</td>
+            <td><a href="https://www.linkedin.com/mwlite/in/guilherme-alves-163783156" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank">               </a></td>
+            <td><img src="IMAGENS/imagem guilherme.jpeg" width="120" height="135"  /></td>
+      </tr>
+       <tr>
+            <td>Maria Alice</td>
+            <td>GitHub e desenvolvedora</td>
+            <td><a href="https://www.linkedin.com/in/maria-alice-oliveira-336273215" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>             </td>
+            <td><img src="/IMAGENS/alice.jpeg" width="120" height="135" /></td>
+       </tr>
+       <tr>
+            <td>Marcelo Bueno</td>
+            <td>Desenvolvedor</td>
+            <td><a href="https://www.linkedin.com/in/marcelo-silva-07081999" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a></td>
+            <td><img src="/IMAGENS/marcelo.jpeg" width="120" height="135"/></td>
+      </tr>
+      <tr>
+            <td>Murilo Junior</td>
+            <td>Desenvolvedor</td>
+            <td><a href="https://www.linkedin.com/in/murilo-jos%C3%A9-de-brito-junior-32403b157" target="_blank"><img src="IMAGENS/iconlinkedin.png"                     target="_blank"></a></td>
+            <td><img src="/IMAGENS/murilo.jpeg" width="120" height="135"/></td>
+      </tr>
+      <tr>
+            <td>Thiago Chaves</td>
+            <td>Desenvolvedor</td>
+            <td><a href="https://www.linkedin.com/in/thiago-lopes-chaves-5ba22b209" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>             </td>
+            <td><img src="/IMAGENS/thiago.jpeg" width="120" height="135" /></td>
+      </tr>
+      
+</table>
+
+
 
 
