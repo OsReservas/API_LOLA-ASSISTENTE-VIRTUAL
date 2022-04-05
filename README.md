@@ -78,20 +78,25 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 <hr>
 
 ## 💻 **Tecnologias utilizadas**
-* **Apresetação** Github;
+* ** Linguagem**  <a href="https://www.python.org/">Python</a>
+* **Versionamento** Github;
 * **Reuniões** Meet Google, WhatsApp;
 * **Ferramentas:** Visual Studio Code, PyCharm.
 <hr>
 
+
 ## 🎓 **Equipe:**
+
+<h2> Agradecemos às seguintes pessoas que contribuíram para este projeto: </h2>
+
 |NOME|FUNÇÃO|LINKEDIN|AVATAR|
 | ---------- |---------- |---------- |----------|
 |**André Gabriel**| Scrum Master e desenvolvedor| <a href="https://www.linkedin.com/in/andr%C3%A9-gabriel-ferreira-89441382/" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/andre.jpeg" width="120" height="135" />|
 |**Eguimar Costa**| GitHub| <a href="https://www.linkedin.com/in/eguimar-costa-03a175214/" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/eguimar.jpeg" width="120" height="135" />|
-|**Guilherme Alves**| Desenvolvedor|<a href="https://www.linkedin.com/mwlite/in/guilherme-alves-163783156" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a> | <img src="IMAGENS/imagem guilherme.jpeg" width="100" height="150"  />|
+|**Guilherme Alves**| Desenvolvedor|<a href="https://www.linkedin.com/mwlite/in/guilherme-alves-163783156" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a> | <img src="IMAGENS/imagem guilherme.jpeg" width="120" height="135"  />|
 |**Maria Alice**| GitHub e desenvolvedora|  <a href="https://www.linkedin.com/in/maria-alice-oliveira-336273215" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/alice.jpeg" width="120" height="135" />|
 |**Marcelo Bueno**| Desenvolvedor| <a href="https://www.linkedin.com/in/marcelo-silva-07081999" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/marcelo.jpeg" width="120" height="135"/>|
 |**Murilo Junior**| Desenvolvedor| <a href="https://www.linkedin.com/in/murilo-jos%C3%A9-de-brito-junior-32403b157" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|<img src="/IMAGENS/murilo.jpeg" width="120" height="135"/>|
-|**Thiago Chaves**| Desenvolvedor| |<img src="/IMAGENS/thiago.jpeg" width="120" height="135" />|
+|**Thiago Chaves**| Desenvolvedor| <a href="https://www.linkedin.com/in/thiago-lopes-chaves-5ba22b209" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a> |<img src="/IMAGENS/thiago.jpeg" width="120" height="135" />|
 
 
