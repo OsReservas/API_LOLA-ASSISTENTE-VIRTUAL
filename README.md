@@ -1,25 +1,27 @@
 <p align="center">
       <img src="/IMAGENS/dora logo.PNG">
-      <h3 align="center"> DORA - ASSISTENTE VIRTUAL </h1>
+      <h3 align="center"> LOLA - ASSISTENTE VIRTUAL </h1>
 <p align="center">
 <hr>
 
 ## 💼 **O Projeto**
-Dora é a assistente virtual voltada para crianças na faixa etária de 5 a 8 anos.
-Ativada por comando de voz, utilizando a palavra chave de" Oi Dora" é possivel que ela faça:
+Lola é a assistente virtual voltada para crianças na faixa etária de 5 a 8 anos.
+Ativada por comando de voz, utilizando a palavra chave de" Oi Lola" sendo possivel que ela faça:
 - Cálculos matematicos; 
 - Contar histórias;
+- Despertador;
+- Traduzir do inglês para português;
+- Ensinar o passo a passo para escovar os dentes;
+- Jogos;
+- Dicionário;
+- Soletrar palavras.
 
 <hr>
 
 ## **Objetivo**
 
-A assistente estará auxiliando em caráter intensivo o desenvolvimento das crianças nas seguintes matérias: 
-- Matemática
-- História
-- Portugues
-- Artes
-- Rotina 
+A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo das crianças.
+
 <Hr>
 
     
@@ -36,19 +38,17 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento das cria
 ## 📊 **Backlog do Projeto**
 
  - Definição da assitente Pessoal virtual
- - Comando de voz sintetizada pelo software
+ - Comando de voz 
  - Distinção de funções e ações
- - Plataforma definida como padrão desktop
+ - Plataforma a ser definida
  - Itens de funcionalidade da assistente virtual escolar
- - Ativar a função lembrete
- - executar as quatro operações matemáticas fundamentais
+ - Ativar a função alarme
+ - Executar as quatro operações matemáticas fundamentais
  - Modo contador de histórias e ou musica
- - executar ligação para orgão emergencial
- - soletrar palavras
- - executar função dicionário
- - executar jogo
- - descrição de passos para escovar os dentes
- - realizar pesquisa com filtro de sensura  
+ - Soletrar palavras
+ - Executar função dicionário
+ - Executar jogo
+ - Descrição de passos para escovar os dentes  
  <hr>
 
  ## 📑 **Proposta do projeto**
