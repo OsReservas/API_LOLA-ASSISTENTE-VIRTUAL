@@ -35,6 +35,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 - [ ] 16/05 á 27/05 - 3º sprint
 - [ ] 15/06 - Feira de soluções
 <hr>
+<img src="IMAGENS/jira.PNG" width="500px" height="500px" >
 
 ## 📊 **Backlog do Projeto**
 
