@@ -111,7 +111,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
       </tr>
        <tr>
             <td>Eguimar Costa</td>
-            <td>GitHub</td>
+            <td>GitHub e desenvolvedor</td>
             <td><a href="https://www.linkedin.com/in/eguimar-costa-03a175214/" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|</td>
             <td><img src="/IMAGENS/eguimar.jpeg" width="120" height="135" /></td>
       </tr>
