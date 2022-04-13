@@ -35,7 +35,12 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 - [ ] 16/05 á 27/05 - 3º sprint
 - [ ] 15/06 - Feira de soluções
 <hr>
-<img src="IMAGENS/jira.PNG" width="1100px" height="1100px" >
+
+<h1><a href="https://equipezelda.atlassian.net/jira/software/projects/EZ/boards/1">Cronograma Jira</a><img src="/IMAGENS/jira.png" width="50" height="50" /></h1> 
+
+<img src="IMAGENS/jira.PNG" width="856px" height="651px" >
+      
+  
 
 ## 📊 **Backlog do Projeto**
 
