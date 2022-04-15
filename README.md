@@ -119,7 +119,7 @@ pip install pyttsx3
       
 <h1> Funcionamento da Assistente</h1>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1kOpWTWIV2Q" target="_blank"><img src="http://img.youtube.com/vi/1kOpWTWIV2Q/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="350" height="300" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 
 <h1> Equipe 🧑‍💻 👩‍💻 </h1>
