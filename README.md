@@ -116,6 +116,10 @@ pip install pyttsx3
       
 <h3>Apos a instalação é so importar as bibliotecas conforme o exemplo o comando abaixo</h3>
 <p>import speech_recognition
+      
+<h1> Funcionamento da Assistente</h1>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1kOpWTWIV2Q" target="_blank"><img src="http://img.youtube.com/vi/1kOpWTWIV2Q/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="350" height="300" border="10" /></a>
 
 
 <h1> Equipe 🧑‍💻 👩‍💻 </h1>
