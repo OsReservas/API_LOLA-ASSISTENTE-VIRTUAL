@@ -41,6 +41,11 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 <img src="IMAGENS/jira.PNG" width="856px" height="651px"  >
 
 
+
+<h1> Grafico de Burndown ⏰</h1>
+<img src="/IMAGENS/grafico.png" width="856px" heigth="651">
+
+
 ## 📊 **Backlog do Projeto**
 
  - Definição da assitente Pessoal virtual
@@ -88,6 +93,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 * Linguagem Utilizada <br> <a href="https://www.python.org/"><img src="IMAGENS/icons8-python-48.png"  width="64" height="64"></a>
 
 
+
 * Versionamento <br> <img src="IMAGENS/icons8-github-100.png" width="64" height="64" >
 
 * Reuniões semanais  <br> <img src="IMAGENS/icons8-google-meet-48.png"> <img src="IMAGENS/icons8-whatsapp-48.png"  width="60" height="60">
@@ -96,8 +102,23 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 <hr>
 
+<h1> Como executar a Assistente ✨</h2>
+<h3> utilizando o comando pip install instalar as bibliotecas abaixo no terminal do pycharm </h3><br>
+* speech_recognition<br>
+* pyttsx3<br>
+* wikipedia<br
+* playsound<br>
+* pyaudio<br>
 
-## 🧑‍💻 👩‍💻 **Equipe:**
+
+<h3> exemplo</h3>
+pip install pyttsx3
+      
+<h3>Apos a instalação é so importar as bibliotecas conforme o exemplo o comando abaixo</h3>
+<p>import speech_recognition
+
+
+<h1> Equipe 🧑‍💻 👩‍💻 </h1>
 
 <h2> Agradecimento às seguintes pessoas que contribuíram para este projeto: </h2>
 
