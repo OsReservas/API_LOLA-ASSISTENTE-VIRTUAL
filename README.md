@@ -141,7 +141,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
       </tr>
        <tr>
             <td>Eguimar Costa</td>
-            <td>GitHub e desenvolvedor</td>
+            <td>Desenvolvedor</td>
             <td><a href="https://www.linkedin.com/in/eguimar-costa-03a175214/" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>|</td>
             <td><img src="/IMAGENS/eguimar.jpeg" width="120" height="135" /></td>
       </tr>
@@ -153,7 +153,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
       </tr>
        <tr>
             <td>Maria Alice</td>
-            <td>GitHub e desenvolvedora</td>
+            <td>Desenvolvedora</td>
             <td><a href="https://www.linkedin.com/in/maria-alice-oliveira-336273215" target="_blank"><img src="IMAGENS/iconlinkedin.png" target="_blank"></a>             </td>
             <td><img src="/IMAGENS/alice.jpeg" width="120" height="135" /></td>
        </tr>
