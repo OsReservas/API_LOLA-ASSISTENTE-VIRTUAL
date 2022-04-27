@@ -30,6 +30,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 </h2>    
 
 :heavy_check_mark: 17/03 - Kick off
+
 :heavy_check_mark: 25/03 á 14/04 - 1º sprint
 - [ ] 25/04 á 15/05 - 2º sprint
 - [ ] 16/05 á 27/05 - 3º sprint
