@@ -8,7 +8,7 @@
 ## 💼 **O Projeto**
 Lola é a assistente virtual voltada para crianças na faixa etária de 5 a 8 anos.
 Ativada por comando de voz, utilizando a palavra chave de" Oi Lola" sendo possivel que ela faça:
-- Cálculos matematicos; 
+- Cálculos matemáticos; 
 - Contar histórias;
 - Despertador;
 - Traduzir do inglês para português;
@@ -30,7 +30,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 </h2>    
 
 :heavy_check_mark: 17/03 - Kick off
-- [ ] 25/03 á 14/04 - 1º sprint
+:heavy_check_mark: 25/03 á 14/04 - 1º sprint
 - [ ] 25/04 á 15/05 - 2º sprint
 - [ ] 16/05 á 27/05 - 3º sprint
 - [ ] 15/06 - Feira de soluções
@@ -68,7 +68,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
  
  - Apresentar o logotipo do grupo e projeto
  - Apresentar o repositório do grupo (documentação)
- - Demonstrar o gráfico quantitativo Burn down
+ - Demonstrar o gráfico quantitativo Burndown
  - Definir Planejamento do projeto Backlog
  - Apresentar duas funcionalidades da assistente
  - Ação de resposta ao comando de voz
@@ -76,7 +76,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 ## 📋 Sprint 2
 
-- Demonstrar o gráfico quantitativo Burn Down
+- Demonstrar o gráfico quantitativo Burndown
 - Apresentar aproximadamente mais cinco funcionalidades da assistente
 - Apresentar wireframe da interface visual
 
@@ -114,7 +114,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 <h3> exemplo</h3>
 pip install pyttsx3
       
-<h3>Apos a instalação é so importar as bibliotecas conforme o exemplo o comando abaixo</h3>
+<h3>Após a instalação é so importar as bibliotecas conforme o exemplo o comando abaixo</h3>
 <p>import speech_recognition
       
 <h1> Funcionamento da Assistente</h1>
