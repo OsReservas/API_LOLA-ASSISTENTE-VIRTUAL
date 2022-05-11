@@ -2,6 +2,8 @@ import microfone
 import jogo
 import historia
 import pyttsx3
+
+
 maquina = pyttsx3.init()
 voices = maquina.getProperty('voices')
 maquina.setProperty('voice', voices[-2].id)
