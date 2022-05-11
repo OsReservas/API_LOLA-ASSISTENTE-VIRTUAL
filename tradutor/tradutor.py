@@ -10,4 +10,3 @@ def tradutor():
     traducao = trad.translate(abrir_mic_2(), dest="en")
     maq_trad = maquina_voz_en(traducao.text)
     return maq_trad
-tradutor()
