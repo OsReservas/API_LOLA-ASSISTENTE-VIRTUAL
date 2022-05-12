@@ -50,16 +50,19 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 ## 📊 **Backlog do Produto**
 
  - Definição da assitente Pessoal virtual
- - Comando de voz 
- - Distinção de funções e ações
- - Plataforma a ser definida
- - Ativar a função alarme
- - Executar as quatro operações matemáticas fundamentais
- - Modo contador de histórias e ou musica
- - Soletrar palavras
- - Executar função dicionário
- - Executar jogo
- - Descrição de passos para escovar os dentes  
+ - Comando de voz - 1
+ - Distinção de funções e ações - 1
+ - Plataforma a ser definida - 2
+ - Ativar a função alarme - 2
+ - Executar as quatro operações matemáticas fundamentais - 1
+ - Modo contador de histórias e ou musica - 3
+ - Soletrar palavras - 3
+ - Executar função dicionário - 2
+ - Executar jogo - 3
+ - Descrição de passos para escovar os dentes - 3  
+
+1- Alta  2-Média  3-Baixa
+
  <hr>
 
  ## 📑 **Proposta do projeto**
@@ -72,13 +75,17 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
  - Definir Planejamento do projeto Backlog
  - Apresentar duas funcionalidades da assistente
  - Ação de resposta ao comando de voz
+ - Comando de voz
+ - Soletrar palavras
+ - Contador de histórias
 
 
 ## 📋 Sprint 2
 
 - Demonstrar o gráfico quantitativo Burndown
-- Apresentar aproximadamente mais cinco funcionalidades da assistente
-- Apresentar wireframe da interface visual
+- Jogo
+- Calculadora
+- Tradutor 
 
 
 
