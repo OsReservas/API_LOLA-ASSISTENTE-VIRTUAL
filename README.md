@@ -47,13 +47,12 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 <img src="/IMAGENS/grafico.png" width="856px" heigth="651">
 
 
-## 📊 **Backlog do Projeto**
+## 📊 **Backlog do Produto**
 
  - Definição da assitente Pessoal virtual
  - Comando de voz 
  - Distinção de funções e ações
  - Plataforma a ser definida
- - Itens de funcionalidade da assistente virtual escolar
  - Ativar a função alarme
  - Executar as quatro operações matemáticas fundamentais
  - Modo contador de histórias e ou musica
@@ -82,11 +81,6 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 - Apresentar wireframe da interface visual
 
 
-## 📋 Sprint 3
-
-- Executar fechamento do gráfico quantitativo Burndown
-- Apresentar funcionalidades de fechamento do sistema
-- Finalizar interface visual
 
 <hr>
 
