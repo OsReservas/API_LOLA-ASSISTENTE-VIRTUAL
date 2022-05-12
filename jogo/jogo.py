@@ -1,7 +1,6 @@
 def jogo():
     from random import randint
     from time import sleep
-    import microfone
     import pyttsx3
     import microfone
     maquina = pyttsx3.init()

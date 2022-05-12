@@ -1,8 +1,9 @@
+from random import randint
+from time import sleep
+from defs import microfone
+from defs.voz import maquina_voz
+
 def jogo():
-    from random import randint
-    from time import sleep
-    import microfone
-    from voz import maquina_voz
     itens = ('pedra', 'papel', 'tesoura')
 
     computador = randint(0,2)
