@@ -49,7 +49,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 ## 📊 **Backlog do Produto**
 
- - Definição da assitente Pessoal virtual
+ - Definição da assitente Pessoal virtual - 1
  - Comando de voz - 1
  - Distinção de funções e ações - 1
  - Plataforma a ser definida - 2
