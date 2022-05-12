@@ -61,7 +61,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
  - Executar jogo - 3
  - Descrição de passos para escovar os dentes - 3  
 
-1- Alta  2-Média  3-Baixa
+      Prioridade- 1- Alta  2-Média  3-Baixa
 
  <hr>
 
@@ -82,7 +82,6 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 ## 📋 Sprint 2
 
-- Demonstrar o gráfico quantitativo Burndown
 - Jogo
 - Calculadora
 - Tradutor 
