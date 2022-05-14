@@ -12,7 +12,7 @@ def abrir_mic():
         comando = audio.recognize_google(voz, language="pt-BR")
         comando = comando.lower()
         comando = unidecode.unidecode(comando)
-        print(comando)
+        return comando
     except:
         print("Não escutei")
 
