@@ -39,7 +39,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 <h1><a href="https://equipezelda.atlassian.net/jira/software/projects/EZ/boards/1">Cronograma Jira</a><img src="/IMAGENS/jira.png" width="50" height="50" /></h1> 
 
-<img src="IMAGENS/jira.PNG" width="856px" height="651px"  >
+<img src="IMAGENS/cronogramajira.PNG" width="856px" height="651px"  >
 
 
 
