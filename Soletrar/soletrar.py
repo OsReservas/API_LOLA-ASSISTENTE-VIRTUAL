@@ -1,10 +1,8 @@
-import speech_recognition as sr
-import pyttsx3
-import playsound
-
 def soletrar():
-    comando = comando.replace("soletre", " ")
+    from voz import maquina_voz
+    from microfone import abrir_mic
+    maquina_voz('Diga a palavra que deseja soletrar')
+    microfone = abrir_mic()
+    comando = microfone.replace("soletre", " ")
     for letra in comando:
-        maquina.say(letra)
-    maquina.runAndWait()
-soletrar()
+        maquina_voz(letra)
