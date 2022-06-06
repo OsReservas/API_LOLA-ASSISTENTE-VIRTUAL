@@ -80,6 +80,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
  - Comando de voz
  - Soletrar palavras
  - Contador de histórias
+ - Dicionário
 
 
 ## 📋 Sprint 2
