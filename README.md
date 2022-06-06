@@ -46,7 +46,7 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 
 <h1> Grafico de Burndown ⏰</h1>
-<img src="IMAGENS/Grafico%20fatec%202%20sprint.png" width="856px" heigth="651">
+<img src="IMAGENS/grafico%20ultimo.png" width="856px" heigth="651">
 
 
 ## 📊 **Backlog do Produto**
