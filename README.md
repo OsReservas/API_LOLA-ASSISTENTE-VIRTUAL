@@ -41,12 +41,12 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 <h1><a href="https://equipezelda.atlassian.net/jira/software/projects/EZ/boards/1">Cronograma Jira</a><img src="/IMAGENS/jira.png" width="50" height="50" /></h1> 
 
-<img src="/IMAGENS/jirafeira.jpg" width="800px" height="500px">
+<img src="/IMAGENS/jirafeira.jpg" width="1631px" height="735px">
 
 
 
 <h1> Grafico de Burndown ⏰</h1>
-<img src="IMAGENS/grafico%20ultimo.png" width="1900px" heigth="800">
+<img src="IMAGENS/graficofeira.png" width="671px" heigth="350px">
 
 
 ## 📊 **Backlog do Produto**
