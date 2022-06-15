@@ -35,13 +35,13 @@ A assistente estará auxiliando em caráter intensivo o desenvolvimento e estudo
 
 :heavy_check_mark: 25/04 a 15/05 - 2º sprint
 
-- [ ] 16/05 a 27/05 - 3º sprint
+:heavy_check_mark: 16/05 a 27/05 - 3º sprint
 - [ ] 15/06 - Feira de soluções
 <hr>
 
 <h1><a href="https://equipezelda.atlassian.net/jira/software/projects/EZ/boards/1">Cronograma Jira</a><img src="/IMAGENS/jira.png" width="50" height="50" /></h1> 
 
-<img src="IMAGENS/jira%20ultimo.png" width="856px" height="651px">
+<img src="IMAGENS/jira%20ultimo.png" width="500px" height="500px">
 
 
 
