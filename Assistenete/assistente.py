@@ -1,5 +1,5 @@
 def assistente():
-    from microfone import abrir_mic
+    from microfone1 import abrir_mic
     from jogo1 import jogo
     from calculadora import calculo
     from tradutor import tradutor
